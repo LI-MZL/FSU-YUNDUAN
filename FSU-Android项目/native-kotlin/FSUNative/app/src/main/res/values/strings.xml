@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">铁塔FSU模拟器</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_device">设备</string>
+    <string name="nav_network">网络</string>
+    <string name="nav_active_alarm">活动告警</string>
+    <string name="nav_history_alarm">历史告警</string>
+    <string name="nav_config">配置</string>
+    <string name="nav_log">协议日志</string>
+    <string name="nav_serial_test">串口测试</string>
+    <string name="nav_business_param">业务参数</string>
+    <string name="nav_device_param">设备参数</string>
+    <string name="nav_net_param">网络参数</string>
+    <string name="nav_project_guide">工程引导</string>
+    <string name="nav_device_info">设备信息</string>
+    <string name="nav_prog">进度</string>
+    <string name="nav_run_log">运行日志</string>
+    <string name="nav_my">我的</string>
+    <string name="nav_jiaowei">交维</string>
+
+    <!-- 站点信息 -->
+    <string name="fsu_name">FSU名称</string>
+    <string name="fsu_id">FSU ID</string>
+    <string name="fsu_code">FSU编码</string>
+    <string name="fsu_type">FSU类型</string>
+    <string name="site_type">站点类型</string>
+    <string name="work_state">工作状态</string>
+    <string name="monitor_id">监控ID</string>
+    <string name="soft_version">软件版本</string>
+    <string name="battery_version">B版本</string>
+
+    <!-- 网络 -->
+    <string name="network_info">网络信息</string>
+    <string name="mac_address">MAC地址</string>
+    <string name="local_ip">本地IP</string>
+    <string name="vpn_server">VPN服务器</string>
+    <string name="vpn_ip">VPN IP</string>
+    <string name="sc_status">SC状态</string>
+    <string name="sc_ip">SC地址</string>
+    <string name="sc_port">SC端口</string>
+
+    <!-- 资源 -->
+    <string name="resource_usage">资源使用率</string>
+    <string name="cpu_usage">CPU</string>
+    <string name="ram_usage">内存</string>
+    <string name="disk_usage">磁盘</string>
+
+    <!-- 串口 -->
+    <string name="serial_port_status">串口状态</string>
+
+    <!-- 操作 -->
+    <string name="go_online">一键上线</string>
+    <string name="go_offline">一键下线</string>
+    <string name="login_state">登录状态</string>
+
+    <!-- 设备 -->
+    <string name="device_list">设备列表</string>
+    <string name="power_supply">开关电源</string>
+    <string name="battery">蓄电池</string>
+    <string name="air_conditioner">空调</string>
+    <string name="smoke_detector">烟感</string>
+    <string name="water_detector">水浸</string>
+    <string name="temperature_humidity">温湿度</string>
+    <string name="door_access">门禁</string>
+    <string name="signal_list">信号点列表</string>
+    <string name="trigger_alarm">触发告警</string>
+    <string name="recover_alarm">恢复告警</string>
+
+    <!-- 告警 -->
+    <string name="alarm_level1">一级告警</string>
+    <string name="alarm_level2">二级告警</string>
+    <string name="alarm_level3">三级告警</string>
+    <string name="alarm_level4">四级告警</string>
+    <string name="alarm_start">告警发生</string>
+    <string name="alarm_end">告警恢复</string>
+
+    <!-- 配置 -->
+    <string name="vpn_config">VPN配置</string>
+    <string name="sc_config">SC配置</string>
+    <string name="serial_config">串口配置</string>
+
+    <!-- 服务通知 -->
+    <string name="fsu_service_channel">FSU服务通道</string>
+    <string name="fsu_service_notification">FSU后台服务运行中</string>
+    <string name="fsu_online">FSU在线</string>
+    <string name="fsu_offline">FSU离线</string>
+
+    <!-- 状态 -->
+    <string name="status_online">在线</string>
+    <string name="status_offline">离线</string>
+    <string name="status_connecting">连接中</string>
+    <string name="status_connected">已连接</string>
+    <string name="status_disconnected">已断开</string>
+    <string name="status_failed">失败</string>
+
+    <!-- 协议 -->
+    <string name="protocol_send">发送</string>
+    <string name="protocol_recv">接收</string>
+
+    <!-- FSU类型 -->
+    <string name="fsu_type_intstan">综合机房监控</string>
+    <string name="fsu_type_disstan">室外机柜监控</string>
+    <string name="fsu_type_ihiexter">室内综合监控</string>
+    <string name="fsu_type_iihiexter">室内外综合监控</string>
+    <string name="fsu_type_iloexter">室内智能监控</string>
+    <string name="fsu_type_iiloexter">室内外智能监控</string>
+
+    <!-- 站点类型 -->
+    <string name="site_shared">共享</string>
+    <string name="site_mobile">移动</string>
+    <string name="site_unicom">联通</string>
+    <string name="site_telecom">电信</string>
+
+    <!-- 确认弹窗 -->
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+
+    <!-- 通知 -->
+    <string name="notification_title">铁塔FSU</string>
+    <string name="notification_text">心跳: %1$d | 告警: %2$d</string>
+</resources>
